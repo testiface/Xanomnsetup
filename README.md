@@ -57,7 +57,7 @@ cd && sudo apt-get -y install git && sudo git clone https://github.com/testiface
 
 # Bronate if this helped
 
-*Official Xano Discord: https://discord.gg/US3t6aj
+*Official Xano Discord: 
 
 MY Xano ADDRESS: NWrcgc4eSAqrrp5J7XUGiTvY7bZCs9Nify
 
