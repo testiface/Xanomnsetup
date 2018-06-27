@@ -93,4 +93,4 @@ sudo Xanod
 sleep 2
 echo ""
 echo ""
-echo -e "Thank you for installing the NOS daemon.  Please move onto the ${RED}NEXT${NC} step."
+echo -e "Thank you for installing the XANO daemon.  Please move onto the ${RED}NEXT${NC} step."
