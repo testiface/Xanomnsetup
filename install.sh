@@ -21,7 +21,7 @@ RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m'
 
-IP==$(curl -s4 icanhazip.com)
+IP==$(curl -s4 api.ipify.org)
 echo -e "${GREEN}Please enter your private key: (Copy from Windows and right click to paste and press enter)${NC}" 
 read KEY
 sleep 2
