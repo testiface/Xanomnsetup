@@ -87,6 +87,13 @@ echo "masternode=1" >> /root/.Xano/Xano.conf
 echo "masternodeaddr$IP:8250" >> /root/.Xano/Xano.conf
 echo "externalip$IP:8250" >> /root/.Xano/Xano.conf
 echo "masternodeprivkey=$KEY" >> /root/.Xano/Xano.conf
+echo "addnode=207.246.83.151:8250" >> /root/.Xano/Xano.conf
+echo "addnode=80.211.38.233:8250" >> /root/.Xano/Xano.conf
+echo "addnode=45.63.51.4:8250" >> /root/.Xano/Xano.conf
+echo "addnode=209.97.137.94:8250" >> /root/.Xano/Xano.conf
+echo "addnode=185.244.194.207:8250" >> /root/.Xano/Xano.conf
+
+
 echo -e "${GREEN}STARTING THE DAEMON${NC}"
 cd /root
 sudo Xanod
